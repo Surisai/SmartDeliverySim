@@ -1,0 +1,14 @@
+# Build output
+build/
+*.o
+*.out
+*.exe
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+*.log
+*.tmp
